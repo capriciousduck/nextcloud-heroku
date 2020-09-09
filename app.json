@@ -1,0 +1,9 @@
+
+{
+  "name": "Nextcloud Heroku",
+  "env": {
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
