@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 # Nextcloud on Heroku
 
 Deploy your own [Nextcloud](https://nextcloud.com) instance on [Heroku](https://heroku.com).
