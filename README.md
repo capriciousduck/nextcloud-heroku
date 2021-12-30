@@ -64,3 +64,5 @@ Build & push the image to your app:
 ```bash
 heroku container:push web
 ```
+
+After deployment look at this issue[https://github.com/amancevice/nextcloud-heroku/issues/1] to fix Nextcloud not starting up. 
